@@ -2,7 +2,7 @@
 <ul style="align-itens: center; display: flex; flex-direction: column;">
          
 <li>👩🏾‍💻Olá !! Me chamo Erick Willyan </li>
-<li>🔹 Tenho 18 anos de idade</li> 
+<li>🔹 Tenho 19 anos de idade</li> 
 <li> 🎯 Desenvolvedor Full-Stack  </li>
 <li>✉ Entre em contato: erickwillyan2105@gmail.com </li>
 </ul>
